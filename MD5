@@ -1,8 +1,11 @@
-6a0ecdbefef2d834425ef52410e6cc52 *DESCRIPTION
-eea456c12cde03e99a137d9b55227623 *NAMESPACE
+c2225e6afcc48a55f26905a1d27b38c7 *DESCRIPTION
+c91024c0d4d5584170c321095c278abf *NAMESPACE
+700510b78d62b08f479d6bffea8fe02a *NEWS
 4b1208a9701b89bda7ed15c08c77b02d *R/df2json-package.r
-0c530151e8d2ab5d946cdb89edefc793 *R/df2json.R
+3e96180bf88d96e4f5fd5070d9ccba09 *R/df2json.R
 2d6b926c8f32de0c25737758c9f7ae71 *README.md
-304b93345269845334ac943ffff79d39 *inst/tests/test-df2json.R
-4dd7b78b664e822375926202d3178294 *man/df2json.Rd
+221e55a3d4de486a4dced297d99e0d35 *inst/tests/test-df2json.R
+986cd28824849672387330b79d7e53bf *man/df2json.Rd
+dec696d3382a9746d82ae898cf0a1de6 *man/json2df.Rd
+8a8adcbf570d21da710c02caca895a97 *man/matrix2json.Rd
 e7cbef96c6013970ec3b5bab72db2ed7 *tests/test-all.R

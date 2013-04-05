@@ -4,15 +4,18 @@
 \alias{df2json-package}
 \title{df2json}
 \usage{
-  df2json(data)
+  df2json(df)
 }
 \arguments{
-  \item{data}{input dataframe object}
+  \item{df}{input dataframe object}
 }
 \description{
   df2json
 
-  Convert a dataframe to JSON
+  It returns a string that contains an array of objects.
+  There are as many JS objects as there are rows in the
+  data frame. The column names are used as the keys of each
+  object. The objects are separated by newlines.
 }
 \examples{
 library(df2json)
